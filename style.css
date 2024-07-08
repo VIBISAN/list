@@ -1,0 +1,30 @@
+body{
+   background-color: rgb(255, 255, 255);
+}
+#a{
+    font-size: x-large;
+    font-weight: bold;
+    text-shadow: 5px 5px 3px rgb(85, 90, 90);
+    font-style: italic 10px;
+    
+}
+#b{
+    font-size: x-large;
+    size: 40px;
+}
+#c{
+    font:x-large;
+    font-weight: bold;
+   
+}
+#D{
+    font:x-large;
+    font-weight: bold;
+}
+#E{
+    font:x-large;
+    font-weight: bold;
+}
+#n{
+    text-align:center;
+}
